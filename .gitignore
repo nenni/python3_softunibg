@@ -102,6 +102,9 @@ temp*.py
 *.rar
 *.gz
 *.tgz
+*.db
+*.sqlite
+
 
 #training slides
 *Softuni_python_programing_Jan_2016*
